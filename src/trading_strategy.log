@@ -1,0 +1,32 @@
+2024-07-15 09:27:26,678 - INFO - Data and model loaded successfully
+2024-07-15 09:27:31,462 - INFO - Iteration 100: Portfolio Value = 100000.0
+2024-07-15 09:27:35,039 - INFO - Iteration 200: Portfolio Value = 100000.0
+2024-07-15 09:27:38,602 - INFO - Iteration 300: Portfolio Value = 100000.0
+2024-07-15 09:27:42,279 - INFO - Iteration 400: Portfolio Value = 100000.0
+2024-07-15 09:27:45,916 - INFO - Iteration 500: Portfolio Value = 100000.0
+2024-07-15 09:27:49,591 - INFO - Iteration 600: Portfolio Value = 100000.0
+2024-07-15 09:27:53,345 - INFO - Iteration 700: Portfolio Value = 100000.0
+2024-07-15 09:27:57,043 - INFO - Iteration 800: Portfolio Value = 100000.0
+2024-07-15 09:28:00,715 - INFO - Iteration 900: Portfolio Value = 100000.0
+2024-07-15 10:47:41,968 - INFO - Data and model loaded successfully
+2024-07-15 10:47:43,207 - INFO - Trading strategy applied successfully
+2024-07-15 10:47:46,731 - INFO - Iteration 100: Portfolio Value = 100000.0
+2024-07-15 10:47:50,341 - INFO - Iteration 200: Portfolio Value = 100000.0
+2024-07-15 10:47:53,751 - INFO - Iteration 300: Portfolio Value = 100000.0
+2024-07-15 10:47:57,199 - INFO - Iteration 400: Portfolio Value = 100000.0
+2024-07-15 10:48:00,645 - INFO - Iteration 500: Portfolio Value = 100000.0
+2024-07-15 10:48:04,094 - INFO - Iteration 600: Portfolio Value = 100000.0
+2024-07-15 10:48:07,630 - INFO - Iteration 700: Portfolio Value = 100000.0
+2024-07-15 10:48:11,153 - INFO - Iteration 800: Portfolio Value = 100000.0
+2024-07-15 10:48:14,629 - INFO - Iteration 900: Portfolio Value = 100000.0
+2024-07-15 11:00:03,628 - INFO - Data loaded successfully
+2024-07-15 11:12:39,188 - INFO - Data loaded successfully
+2024-07-15 11:15:45,995 - INFO - Data loaded successfully
+2024-07-15 11:17:44,114 - INFO - Data loaded successfully
+2024-07-15 11:20:53,414 - INFO - Data loaded successfully
+2024-07-15 11:23:00,106 - INFO - Data loaded successfully
+2024-07-15 11:25:30,827 - INFO - Data loaded successfully
+2024-07-15 11:25:30,833 - ERROR - KeyError at iteration 1: 0
+2024-07-15 11:32:06,501 - INFO - Data and model loaded successfully
+2024-07-15 11:36:06,635 - INFO - Data and model loaded successfully
+2024-07-15 11:39:04,508 - INFO - Data and model loaded successfully

@@ -1,0 +1,10 @@
+# Ignore environment directories
+env/
+new_env/
+
+# Ignore API key files
+*.key
+*.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
