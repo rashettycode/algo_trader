@@ -37,7 +37,18 @@ To install and set up the project locally, follow these steps:
 4. Run the initial setup scripts:
     ```bash
     python setup.py
-    ```
+    ```    
+### On Windows: TA-lib
+
+1. **Install Microsoft Visual C++ Build Tools**:
+   - Download and install the [Microsoft Visual C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+
+2. **Install TA-Lib**:
+   - Download the appropriate binary from [TA-Lib files](https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib).
+   - Install it using `pip` (replace the file name with the one you downloaded):
+     ```bash
+     pip install TA_Lib‑0.4.0‑cp39‑cp39‑win_amd64.whl
+     ```
 
 ## Downloading External Data Files
 
