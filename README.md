@@ -46,6 +46,7 @@ The project requires external data files for running backtests and live trading.
 1. Navigate to the `data` directory:
     ```bash
     cd data
+    download_data.py
     ```
 
 2. Download the required data files from the specified sources. For example, you can download historical stock prices from a financial data provider like Yahoo Finance:
